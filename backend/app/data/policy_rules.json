@@ -1,0 +1,30 @@
+[
+  {
+    "rule_id": "TRAI_01",
+    "name": "TRAI Outbound Calling Window",
+    "condition": "channel == 'voice' and (hour < 9 or hour >= 21)",
+    "action": "BLOCK_OUTREACH",
+    "description": "Calls are strictly prohibited before 9:00 AM or after 9:00 PM IST."
+  },
+  {
+    "rule_id": "RBI_01",
+    "name": "Monthly Promotional Frequency Cap",
+    "condition": "monthly_contact_count >= 4",
+    "action": "BLOCK_OUTREACH",
+    "description": "Maximum 4 proactive contacts permitted per calendar month."
+  },
+  {
+    "rule_id": "RBI_02",
+    "name": "Post-Decline Cooling Off",
+    "condition": "hours_since_last_decline < 48",
+    "action": "BLOCK_OUTREACH",
+    "description": "Mandatory 48-hour cooling off period after customer declines an offer."
+  },
+  {
+    "rule_id": "DPDP_01",
+    "name": "Explicit Consent Verification",
+    "condition": "purpose_code not in customer_consents",
+    "action": "BLOCK_OUTREACH",
+    "description": "Proactive outreach requires active customer consent for the specific product purpose."
+  }
+]

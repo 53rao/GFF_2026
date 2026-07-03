@@ -1,0 +1,41 @@
+[
+  {
+    "id": "CASE-CUST-1001-8596E5",
+    "case_id": "CASE-CUST-1001-8596E5",
+    "customer_id": "CUST-1001",
+    "customerName": "Rajesh Kumar",
+    "type": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "priority": "High",
+    "status": "Escalated",
+    "assigned_queue": "Compliance & Suitability Review Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-03T16:24:09Z"
+  },
+  {
+    "id": "CASE-CUST-1001-4ED956",
+    "case_id": "CASE-CUST-1001-4ED956",
+    "customer_id": "CUST-1001",
+    "customerName": "Rajesh Kumar",
+    "type": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "priority": "High",
+    "status": "Escalated",
+    "assigned_queue": "Compliance & Suitability Review Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-03T16:24:58Z"
+  },
+  {
+    "id": "CASE-CUST-1003-91C707",
+    "case_id": "CASE-CUST-1003-91C707",
+    "customer_id": "CUST-1003",
+    "customerName": "Amit Patel",
+    "type": "PROACTIVE_CHECK_IN_AND_YONO_ASSISTANCE",
+    "priority": "High",
+    "status": "Assigned",
+    "assigned_queue": "General Sales RM Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-03T16:25:08Z"
+  }
+]

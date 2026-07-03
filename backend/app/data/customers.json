@@ -1,0 +1,579 @@
+[
+  {
+    "id": "CUST-1001",
+    "cif_number": "CIF89230011",
+    "full_name": "Rajesh Kumar",
+    "email": "rajesh.kumar@example.in",
+    "mobile": "+919820101001",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Priority Account",
+    "member_since": "2019-04-12",
+    "account_balance": 1450000.0,
+    "holdings": [
+      {
+        "product_code": "SB_PREM",
+        "product_name": "SBI Savings Plus",
+        "balance": 1450000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1002",
+    "cif_number": "CIF89230012",
+    "full_name": "Priya Sharma",
+    "email": "priya.sharma@example.in",
+    "mobile": "+919820101002",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-08-19",
+    "account_balance": 320000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 320000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1003",
+    "cif_number": "CIF89230013",
+    "full_name": "Amit Patel",
+    "email": "amit.patel@example.in",
+    "mobile": "+919820101003",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-01-15",
+    "account_balance": 180000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 180000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1004",
+    "cif_number": "CIF89230014",
+    "full_name": "Sunita Verma",
+    "email": "sunita.verma@example.in",
+    "mobile": "+919820101004",
+    "segment": "HNI",
+    "kyc_verified": true,
+    "relationship_type": "Wealth Management",
+    "member_since": "2017-11-20",
+    "account_balance": 2800000.0,
+    "holdings": [
+      {
+        "product_code": "SB_PREM",
+        "product_name": "SBI Savings Plus",
+        "balance": 1300000.0
+      },
+      {
+        "product_code": "FD_SPECIAL",
+        "product_name": "SBI Tax Savings Fixed Deposit",
+        "balance": 1500000.0,
+        "maturity_date": "2026-07-11",
+        "interest_rate": 7.1
+      }
+    ]
+  },
+  {
+    "id": "CUST-1005",
+    "cif_number": "CIF89230005",
+    "full_name": "Aarav Gupta",
+    "email": "aarav.gupta@example.in",
+    "mobile": "+919820101005",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 125000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 125000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1006",
+    "cif_number": "CIF89230006",
+    "full_name": "Vikram Singh",
+    "email": "vikram.singh@example.in",
+    "mobile": "+919820101006",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2019-05-14",
+    "account_balance": 140000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 140000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1007",
+    "cif_number": "CIF89230007",
+    "full_name": "Rohan Reddy",
+    "email": "rohan.reddy@example.in",
+    "mobile": "+919820101007",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-05-14",
+    "account_balance": 155000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 155000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1008",
+    "cif_number": "CIF89230008",
+    "full_name": "Deepak Nair",
+    "email": "deepak.nair@example.in",
+    "mobile": "+919820101008",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-05-14",
+    "account_balance": 170000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 170000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1009",
+    "cif_number": "CIF89230009",
+    "full_name": "Sanjay Iyer",
+    "email": "sanjay.iyer@example.in",
+    "mobile": "+919820101009",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2022-05-14",
+    "account_balance": 185000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 185000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1010",
+    "cif_number": "CIF89230010",
+    "full_name": "Manoj Joshi",
+    "email": "manoj.joshi@example.in",
+    "mobile": "+919820101010",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 200000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 200000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1011",
+    "cif_number": "CIF89230011",
+    "full_name": "Karan Deshmukh",
+    "email": "karan.deshmukh@example.in",
+    "mobile": "+919820101011",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2019-05-14",
+    "account_balance": 215000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 215000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1012",
+    "cif_number": "CIF89230012",
+    "full_name": "Suresh Chauhan",
+    "email": "suresh.chauhan@example.in",
+    "mobile": "+919820101012",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-05-14",
+    "account_balance": 230000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 230000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1013",
+    "cif_number": "CIF89230013",
+    "full_name": "Ramesh Bhatia",
+    "email": "ramesh.bhatia@example.in",
+    "mobile": "+919820101013",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-05-14",
+    "account_balance": 245000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 245000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1014",
+    "cif_number": "CIF89230014",
+    "full_name": "Anand Mehta",
+    "email": "anand.mehta@example.in",
+    "mobile": "+919820101014",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2022-05-14",
+    "account_balance": 260000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 260000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1015",
+    "cif_number": "CIF89230015",
+    "full_name": "Neha Malhotra",
+    "email": "neha.malhotra@example.in",
+    "mobile": "+919820101015",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 275000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 275000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1016",
+    "cif_number": "CIF89230016",
+    "full_name": "Anjali Kapoor",
+    "email": "anjali.kapoor@example.in",
+    "mobile": "+919820101016",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2019-05-14",
+    "account_balance": 290000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 290000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1017",
+    "cif_number": "CIF89230017",
+    "full_name": "Pooja Chatterjee",
+    "email": "pooja.chatterjee@example.in",
+    "mobile": "+919820101017",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-05-14",
+    "account_balance": 305000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 305000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1018",
+    "cif_number": "CIF89230018",
+    "full_name": "Kavita Roy",
+    "email": "kavita.roy@example.in",
+    "mobile": "+919820101018",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-05-14",
+    "account_balance": 320000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 320000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1019",
+    "cif_number": "CIF89230019",
+    "full_name": "Swati Banerjee",
+    "email": "swati.banerjee@example.in",
+    "mobile": "+919820101019",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2022-05-14",
+    "account_balance": 335000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 335000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1020",
+    "cif_number": "CIF89230020",
+    "full_name": "Divya Sengupta",
+    "email": "divya.sengupta@example.in",
+    "mobile": "+919820101020",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 350000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 350000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1021",
+    "cif_number": "CIF89230021",
+    "full_name": "Meena Das",
+    "email": "meena.das@example.in",
+    "mobile": "+919820101021",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2019-05-14",
+    "account_balance": 365000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 365000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1022",
+    "cif_number": "CIF89230022",
+    "full_name": "Shalini Yadav",
+    "email": "shalini.yadav@example.in",
+    "mobile": "+919820101022",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-05-14",
+    "account_balance": 380000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 380000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1023",
+    "cif_number": "CIF89230023",
+    "full_name": "Sneha Tiwari",
+    "email": "sneha.tiwari@example.in",
+    "mobile": "+919820101023",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-05-14",
+    "account_balance": 395000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 395000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1024",
+    "cif_number": "CIF89230024",
+    "full_name": "Radhika Mishra",
+    "email": "radhika.mishra@example.in",
+    "mobile": "+919820101024",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2022-05-14",
+    "account_balance": 410000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 410000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1025",
+    "cif_number": "CIF89230025",
+    "full_name": "Nitin Saxena",
+    "email": "nitin.saxena@example.in",
+    "mobile": "+919820101025",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 425000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 425000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1026",
+    "cif_number": "CIF89230026",
+    "full_name": "Tarun Chopra",
+    "email": "tarun.chopra@example.in",
+    "mobile": "+919820101026",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2019-05-14",
+    "account_balance": 440000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 440000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1027",
+    "cif_number": "CIF89230027",
+    "full_name": "Gaurav Thakur",
+    "email": "gaurav.thakur@example.in",
+    "mobile": "+919820101027",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2020-05-14",
+    "account_balance": 455000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 455000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1028",
+    "cif_number": "CIF89230028",
+    "full_name": "Varun Pandey",
+    "email": "varun.pandey@example.in",
+    "mobile": "+919820101028",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2021-05-14",
+    "account_balance": 470000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 470000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1029",
+    "cif_number": "CIF89230029",
+    "full_name": "Mohit Shukla",
+    "email": "mohit.shukla@example.in",
+    "mobile": "+919820101029",
+    "segment": "RETAIL",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2022-05-14",
+    "account_balance": 485000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 485000.0
+      }
+    ]
+  },
+  {
+    "id": "CUST-1030",
+    "cif_number": "CIF89230030",
+    "full_name": "Ashish Agrawal",
+    "email": "ashish.agrawal@example.in",
+    "mobile": "+919820101030",
+    "segment": "WEALTH",
+    "kyc_verified": true,
+    "relationship_type": "Standard Savings",
+    "member_since": "2018-05-14",
+    "account_balance": 500000.0,
+    "holdings": [
+      {
+        "product_code": "SB_REG",
+        "product_name": "SBI Regular Savings",
+        "balance": 500000.0
+      }
+    ]
+  }
+]
