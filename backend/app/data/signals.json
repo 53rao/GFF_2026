@@ -1,0 +1,57 @@
+[
+  {
+    "signal_id": "SIG-CUST-1001-INFLOW-TX-1001-BONUS",
+    "signal_type": "LARGE_INFLOW",
+    "customer_id": "CUST-1001",
+    "confidence": 0.95,
+    "urgency": 4,
+    "raw_evidence": {
+      "transaction_id": "TX-1001-BONUS",
+      "amount": 850000.0,
+      "historical_avg_credit": 150000.0,
+      "description": "ANNUAL PERFORMANCE BONUS FY25"
+    },
+    "detected_at": "2026-07-03T16:24:58Z"
+  },
+  {
+    "signal_id": "SIG-CUST-1002-SPIKE-33f99c",
+    "signal_type": "SPENDING_SPIKE",
+    "customer_id": "CUST-1002",
+    "confidence": 0.92,
+    "urgency": 4,
+    "raw_evidence": {
+      "recent_7d_spending": 240000.0,
+      "historical_weekly_avg": 2858.33,
+      "spike_multiplier": 83.97
+    },
+    "detected_at": "2026-07-03T16:11:42Z"
+  },
+  {
+    "signal_id": "SIG-CUST-1003-DORM-134edb",
+    "signal_type": "DORMANCY_WARNING",
+    "customer_id": "CUST-1003",
+    "confidence": 0.88,
+    "urgency": 3,
+    "raw_evidence": {
+      "days_inactive": 38,
+      "last_login": "2026-05-26T14:41:05Z",
+      "total_historical_logins": 4
+    },
+    "detected_at": "2026-07-03T16:25:08Z"
+  },
+  {
+    "signal_id": "SIG-CUST-1004-MAT-FD_SPECIAL",
+    "signal_type": "INVESTMENT_MATURITY_APPROACHING",
+    "customer_id": "CUST-1004",
+    "confidence": 0.99,
+    "urgency": 4,
+    "raw_evidence": {
+      "product_code": "FD_SPECIAL",
+      "product_name": "SBI Tax Savings Fixed Deposit",
+      "maturity_date": "2026-07-11",
+      "days_to_maturity": 7,
+      "balance": 1500000.0
+    },
+    "detected_at": "2026-07-03T16:11:42Z"
+  }
+]

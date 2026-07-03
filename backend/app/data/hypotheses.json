@@ -1,0 +1,53 @@
+[
+  {
+    "hypothesis_id": "HYP-CUST-1001-a45aa3",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-CUST-1001-INFLOW-TX-1001-BONUS",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-8de651",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-CUST-1001-INFLOW-TX-1001-BONUS",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1003-d9b3ee",
+    "customer_id": "CUST-1003",
+    "signal_id": "SIG-CUST-1003-DORM-134edb",
+    "category": "retention_risk",
+    "product_line": "RETENTION_RISK",
+    "recommended_action": "PROACTIVE_CHECK_IN_AND_YONO_ASSISTANCE",
+    "confidence": 0.85,
+    "rationale": "Customer hasn't logged into app for 38 days after previously regular usage.",
+    "supporting_evidence": [
+      "Zero logins over 38 days."
+    ],
+    "disconfirming_evidence": [
+      "Customer may be traveling internationally or switched device."
+    ],
+    "status": "Formulated"
+  }
+]

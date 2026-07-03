@@ -1,0 +1,47 @@
+[
+  {
+    "outcome_id": "OUT-CUST-1001-bca4c2",
+    "customer_id": "CUST-1001",
+    "call_sid": "BRANCH-ESC-CUST-1001",
+    "outcome_type": "hot_lead",
+    "confidence": 0.92,
+    "sentiment": "positive",
+    "reasoning": "Customer showed active interest in the recommended banking product.",
+    "commitments": [
+      "Send product brochure and schedule RM call."
+    ],
+    "follow_up_required": true,
+    "handoff_team": "Investment RM Queue",
+    "analyzed_at": "2026-07-03T16:24:09Z"
+  },
+  {
+    "outcome_id": "OUT-CUST-1001-55955d",
+    "customer_id": "CUST-1001",
+    "call_sid": "BRANCH-ESC-CUST-1001",
+    "outcome_type": "hot_lead",
+    "confidence": 0.92,
+    "sentiment": "positive",
+    "reasoning": "Customer showed active interest in the recommended banking product.",
+    "commitments": [
+      "Send product brochure and schedule RM call."
+    ],
+    "follow_up_required": true,
+    "handoff_team": "Investment RM Queue",
+    "analyzed_at": "2026-07-03T16:24:58Z"
+  },
+  {
+    "outcome_id": "OUT-CUST-1003-25bdc7",
+    "customer_id": "CUST-1003",
+    "call_sid": "CA-SIMULATED-8890",
+    "outcome_type": "hot_lead",
+    "confidence": 0.92,
+    "sentiment": "positive",
+    "reasoning": "Customer showed active interest in the recommended banking product.",
+    "commitments": [
+      "Send product brochure and schedule RM call."
+    ],
+    "follow_up_required": true,
+    "handoff_team": "Investment RM Queue",
+    "analyzed_at": "2026-07-03T16:25:08Z"
+  }
+]
