@@ -1,15 +1,39 @@
-import type { Metadata } from 'next';
-import { agentStatuses } from '@/lib/mock-data';
+'use client';
 
-export const metadata: Metadata = {
-  title: 'Agent Pipeline',
-  description: 'SBI Operations — Multi-agent pipeline status and performance monitoring.',
-};
+import { useState, useEffect } from 'react';
+import { fetchAdminAgents } from '@/lib/api';
 
 export default function AgentsPage() {
-  const active  = agentStatuses.filter((a) => a.status === 'active');
-  const idle    = agentStatuses.filter((a) => a.status === 'idle');
-  const offline = agentStatuses.filter((a) => a.status === 'offline');
+  const [agents, setAgents] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  async function loadAgents() {
+    setLoading(true);
+    try {
+      const data = await fetchAdminAgents();
+      setAgents(data || []);
+    } catch (err) {
+      console.error('Failed to load agents:', err);
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => {
+    loadAgents();
+  }, []);
+
+  if (loading) {
+    return (
+      <div style={{ padding: 'var(--space-12)', textAlign: 'center', color: 'var(--color-text-secondary)' }}>
+        Loading live agent statuses from FastAPI backend...
+      </div>
+    );
+  }
+
+  const activeCount = agents.filter((a) => a.status === 'active').length;
+  const idleCount = agents.filter((a) => a.status === 'idle').length;
+  const offlineCount = agents.filter((a) => a.status === 'offline').length;
 
   return (
     <>
@@ -17,12 +41,12 @@ export default function AgentsPage() {
         <div>
           <h1 className="admin-topbar__heading">Agent Pipeline</h1>
           <p className="admin-topbar__sub">
-            {active.length} active · {idle.length} idle · {offline.length} offline
+            {activeCount} active · {idleCount} idle · {offlineCount} offline
           </p>
         </div>
         <div style={{ display: 'flex', gap: 'var(--space-3)' }}>
           <button className="btn btn--ghost" id="agents-logs-btn" style={{ fontSize: 'var(--text-sm)' }}>View Logs</button>
-          <button className="btn btn--primary" id="agents-deploy-btn" style={{ fontSize: 'var(--text-sm)' }}>Deploy Agent</button>
+          <button className="btn btn--primary" id="agents-refresh-btn" onClick={loadAgents} style={{ fontSize: 'var(--text-sm)' }}>↻ Refresh</button>
         </div>
       </div>
 
@@ -44,7 +68,7 @@ export default function AgentsPage() {
           { label: 'Avg Latency', value: '394ms' },
           { label: 'Messages/min', value: '142' },
           { label: 'Queue Depth', value: '7' },
-          { label: 'Last Deploy', value: '2h ago' },
+          { label: 'Last Deploy', value: 'Just now' },
         ].map(({ label, value }) => (
           <div key={label}>
             <div style={{ fontSize: 'var(--text-xs)', color: 'var(--color-text-secondary)' }}>{label}</div>
@@ -55,16 +79,16 @@ export default function AgentsPage() {
 
       {/* Agent Cards */}
       <h2 style={{ fontSize: 'var(--text-sm)', fontWeight: 700, color: 'var(--color-text-secondary)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 'var(--space-4)' }}>
-        Agents — {agentStatuses.length} deployed
+        Agents — {agents.length} deployed
       </h2>
 
       <div className="agent-grid">
-        {agentStatuses.map((agent) => (
+        {agents.map((agent) => (
           <div key={agent.id} className="agent-card">
             <div className="agent-card__header">
               <div>
                 <div className="agent-card__name">{agent.name}</div>
-                <div className="agent-card__type">{agent.type}</div>
+                <div className="agent-card__type">LangGraph Agent Node</div>
               </div>
               <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 4 }}>
                 <div className={`agent-status-dot agent-status-dot--${agent.status}`} />
@@ -77,11 +101,7 @@ export default function AgentsPage() {
             <div className="agent-card__stats">
               <div>
                 <div className="agent-card__stat-label">Active Cases</div>
-                <div className="agent-card__stat-value">{agent.casesActive}</div>
-              </div>
-              <div>
-                <div className="agent-card__stat-label">Resolved</div>
-                <div className="agent-card__stat-value">{agent.casesResolved}</div>
+                <div className="agent-card__stat-value">{agent.casesActive || 0}</div>
               </div>
               <div>
                 <div className="agent-card__stat-label">Success Rate</div>
@@ -90,33 +110,14 @@ export default function AgentsPage() {
                 </div>
               </div>
               <div>
-                <div className="agent-card__stat-label">Avg Response</div>
-                <div className="agent-card__stat-value">{agent.avgResponseMs}ms</div>
+                <div className="agent-card__stat-label">Response Time</div>
+                <div className="agent-card__stat-value">Just now</div>
               </div>
             </div>
 
-            {/* Utilization */}
-            <div style={{ marginBottom: 'var(--space-3)' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 'var(--space-1)' }}>
-                <span style={{ fontSize: 'var(--text-xs)', color: 'var(--color-text-secondary)' }}>Utilization</span>
-                <span style={{ fontSize: 'var(--text-xs)', fontWeight: 700, color: 'var(--color-text-primary)' }}>{agent.utilization}%</span>
-              </div>
-              <div className="agent-card__progress">
-                <div
-                  className="agent-card__progress-fill"
-                  style={{ width: `${agent.utilization}%` }}
-                  role="progressbar"
-                  aria-valuenow={agent.utilization}
-                  aria-valuemin={0}
-                  aria-valuemax={100}
-                  aria-label={`${agent.name} utilization`}
-                />
-              </div>
-            </div>
-
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 'var(--space-4)' }}>
               <span style={{ fontSize: 'var(--text-xs)', color: 'var(--color-text-tertiary)' }}>
-                Last ping: {agent.lastPing}
+                Last ping: {agent.lastPing || 'Just now'}
               </span>
               <div style={{ display: 'flex', gap: 'var(--space-2)' }}>
                 <button
@@ -140,7 +141,7 @@ export default function AgentsPage() {
       </div>
 
       {/* Pipeline Flow Diagram (static illustration) */}
-      <div className="admin-table-container" style={{ padding: 'var(--space-5)' }}>
+      <div className="admin-table-container" style={{ padding: 'var(--space-5)', marginTop: 'var(--space-6)' }}>
         <h3 style={{ fontSize: 'var(--text-sm)', fontWeight: 700, marginBottom: 'var(--space-4)', color: 'var(--color-text-primary)' }}>
           Agent Message Flow (Schematic)
         </h3>

@@ -4,636 +4,636 @@
     "customer_id": "CUST-1001",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-1001-7",
     "customer_id": "CUST-1001",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-1001-2",
     "customer_id": "CUST-1001",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-1002-10",
     "customer_id": "CUST-1002",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-23T14:41:05Z"
+    "timestamp": "2026-06-24T19:50:52Z"
   },
   {
     "id": "BEV-1002-5",
     "customer_id": "CUST-1002",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "BEV-1002-2",
     "customer_id": "CUST-1002",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-1003-75",
     "customer_id": "CUST-1003",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-04-19T14:41:05Z"
+    "timestamp": "2026-04-20T19:50:52Z"
   },
   {
     "id": "BEV-1003-60",
     "customer_id": "CUST-1003",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "BEV-1003-48",
     "customer_id": "CUST-1003",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-05-16T14:41:05Z"
+    "timestamp": "2026-05-17T19:50:52Z"
   },
   {
     "id": "BEV-1003-38",
     "customer_id": "CUST-1003",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-05-26T14:41:05Z"
+    "timestamp": "2026-05-27T19:50:52Z"
   },
   {
     "id": "BEV-1004-12",
     "customer_id": "CUST-1004",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-21T14:41:05Z"
+    "timestamp": "2026-06-22T19:50:52Z"
   },
   {
     "id": "BEV-1004-6",
     "customer_id": "CUST-1004",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-27T14:41:05Z"
+    "timestamp": "2026-06-28T19:50:52Z"
   },
   {
     "id": "BEV-1004-1",
     "customer_id": "CUST-1004",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-02T14:41:05Z"
+    "timestamp": "2026-07-03T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1005-14",
     "customer_id": "CUST-1005",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1005-7",
     "customer_id": "CUST-1005",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1005-2",
     "customer_id": "CUST-1005",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1006-14",
     "customer_id": "CUST-1006",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1006-7",
     "customer_id": "CUST-1006",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1006-2",
     "customer_id": "CUST-1006",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1007-14",
     "customer_id": "CUST-1007",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1007-7",
     "customer_id": "CUST-1007",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1007-2",
     "customer_id": "CUST-1007",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1008-14",
     "customer_id": "CUST-1008",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1008-7",
     "customer_id": "CUST-1008",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1008-2",
     "customer_id": "CUST-1008",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1009-14",
     "customer_id": "CUST-1009",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1009-7",
     "customer_id": "CUST-1009",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1009-2",
     "customer_id": "CUST-1009",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1010-14",
     "customer_id": "CUST-1010",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1010-7",
     "customer_id": "CUST-1010",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1010-2",
     "customer_id": "CUST-1010",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1011-14",
     "customer_id": "CUST-1011",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1011-7",
     "customer_id": "CUST-1011",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1011-2",
     "customer_id": "CUST-1011",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1012-14",
     "customer_id": "CUST-1012",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1012-7",
     "customer_id": "CUST-1012",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1012-2",
     "customer_id": "CUST-1012",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1013-14",
     "customer_id": "CUST-1013",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1013-7",
     "customer_id": "CUST-1013",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1013-2",
     "customer_id": "CUST-1013",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1014-14",
     "customer_id": "CUST-1014",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1014-7",
     "customer_id": "CUST-1014",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1014-2",
     "customer_id": "CUST-1014",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1015-14",
     "customer_id": "CUST-1015",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1015-7",
     "customer_id": "CUST-1015",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1015-2",
     "customer_id": "CUST-1015",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1016-14",
     "customer_id": "CUST-1016",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1016-7",
     "customer_id": "CUST-1016",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1016-2",
     "customer_id": "CUST-1016",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1017-14",
     "customer_id": "CUST-1017",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1017-7",
     "customer_id": "CUST-1017",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1017-2",
     "customer_id": "CUST-1017",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1018-14",
     "customer_id": "CUST-1018",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1018-7",
     "customer_id": "CUST-1018",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1018-2",
     "customer_id": "CUST-1018",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1019-14",
     "customer_id": "CUST-1019",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1019-7",
     "customer_id": "CUST-1019",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1019-2",
     "customer_id": "CUST-1019",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1020-14",
     "customer_id": "CUST-1020",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1020-7",
     "customer_id": "CUST-1020",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1020-2",
     "customer_id": "CUST-1020",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1021-14",
     "customer_id": "CUST-1021",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1021-7",
     "customer_id": "CUST-1021",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1021-2",
     "customer_id": "CUST-1021",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1022-14",
     "customer_id": "CUST-1022",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1022-7",
     "customer_id": "CUST-1022",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1022-2",
     "customer_id": "CUST-1022",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1023-14",
     "customer_id": "CUST-1023",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1023-7",
     "customer_id": "CUST-1023",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1023-2",
     "customer_id": "CUST-1023",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1024-14",
     "customer_id": "CUST-1024",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1024-7",
     "customer_id": "CUST-1024",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1024-2",
     "customer_id": "CUST-1024",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1025-14",
     "customer_id": "CUST-1025",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1025-7",
     "customer_id": "CUST-1025",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1025-2",
     "customer_id": "CUST-1025",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1026-14",
     "customer_id": "CUST-1026",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1026-7",
     "customer_id": "CUST-1026",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1026-2",
     "customer_id": "CUST-1026",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1027-14",
     "customer_id": "CUST-1027",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1027-7",
     "customer_id": "CUST-1027",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1027-2",
     "customer_id": "CUST-1027",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1028-14",
     "customer_id": "CUST-1028",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1028-7",
     "customer_id": "CUST-1028",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1028-2",
     "customer_id": "CUST-1028",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1029-14",
     "customer_id": "CUST-1029",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1029-7",
     "customer_id": "CUST-1029",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1029-2",
     "customer_id": "CUST-1029",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1030-14",
     "customer_id": "CUST-1030",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-19T14:41:05Z"
+    "timestamp": "2026-06-20T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1030-7",
     "customer_id": "CUST-1030",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-06-26T14:41:05Z"
+    "timestamp": "2026-06-27T19:50:52Z"
   },
   {
     "id": "BEV-CUST-1030-2",
     "customer_id": "CUST-1030",
     "event_type": "APP_LOGIN",
     "channel": "YONO_MOBILE",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   }
 ]

@@ -6,7 +6,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT - TCS LTD",
-    "timestamp": "2026-04-19T14:41:05Z"
+    "timestamp": "2026-04-20T19:50:52Z"
   },
   {
     "id": "TX-1001-45-SAL",
@@ -15,7 +15,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT - TCS LTD",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-1001-15-SAL",
@@ -24,7 +24,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT - TCS LTD",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-1001-70-DEB",
@@ -33,7 +33,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-04-24T14:41:05Z"
+    "timestamp": "2026-04-25T19:50:52Z"
   },
   {
     "id": "TX-1001-60-DEB",
@@ -42,7 +42,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-1001-50-DEB",
@@ -51,7 +51,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-05-14T14:41:05Z"
+    "timestamp": "2026-05-15T19:50:52Z"
   },
   {
     "id": "TX-1001-40-DEB",
@@ -60,7 +60,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-05-24T14:41:05Z"
+    "timestamp": "2026-05-25T19:50:52Z"
   },
   {
     "id": "TX-1001-30-DEB",
@@ -69,7 +69,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-1001-20-DEB",
@@ -78,7 +78,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-06-13T14:41:05Z"
+    "timestamp": "2026-06-14T19:50:52Z"
   },
   {
     "id": "TX-1001-10-DEB",
@@ -87,7 +87,7 @@
     "type": "DEBIT",
     "category": "Bills & Utilities",
     "description": "CREDIT CARD BILL PAYMENT",
-    "timestamp": "2026-06-23T14:41:05Z"
+    "timestamp": "2026-06-24T19:50:52Z"
   },
   {
     "id": "TX-1001-BONUS",
@@ -96,7 +96,7 @@
     "type": "CREDIT",
     "category": "Bonus / Incentive",
     "description": "ANNUAL PERFORMANCE BONUS FY25",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "TX-1002-60",
@@ -105,7 +105,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-1002-52",
@@ -114,7 +114,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-05-12T14:41:05Z"
+    "timestamp": "2026-05-13T19:50:52Z"
   },
   {
     "id": "TX-1002-44",
@@ -123,7 +123,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-05-20T14:41:05Z"
+    "timestamp": "2026-05-21T19:50:52Z"
   },
   {
     "id": "TX-1002-36",
@@ -132,7 +132,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-05-28T14:41:05Z"
+    "timestamp": "2026-05-29T19:50:52Z"
   },
   {
     "id": "TX-1002-28",
@@ -141,7 +141,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-06-05T14:41:05Z"
+    "timestamp": "2026-06-06T19:50:52Z"
   },
   {
     "id": "TX-1002-20",
@@ -150,7 +150,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-06-13T14:41:05Z"
+    "timestamp": "2026-06-14T19:50:52Z"
   },
   {
     "id": "TX-1002-12",
@@ -159,7 +159,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - RELIANCE FRESH",
-    "timestamp": "2026-06-21T14:41:05Z"
+    "timestamp": "2026-06-22T19:50:52Z"
   },
   {
     "id": "TX-1002-SPIKE1",
@@ -168,7 +168,7 @@
     "type": "DEBIT",
     "category": "Electronics",
     "description": "POS PURCHASE - APPLE PREMIUM RESELLER",
-    "timestamp": "2026-06-30T14:41:05Z"
+    "timestamp": "2026-07-01T19:50:52Z"
   },
   {
     "id": "TX-1002-SPIKE2",
@@ -177,7 +177,7 @@
     "type": "DEBIT",
     "category": "Travel",
     "description": "ONLINE PURCHASE - MAKEMYTRIP FLIGHTS",
-    "timestamp": "2026-07-01T14:41:05Z"
+    "timestamp": "2026-07-02T19:50:52Z"
   },
   {
     "id": "TX-1002-SPIKE3",
@@ -186,7 +186,7 @@
     "type": "DEBIT",
     "category": "Apparel",
     "description": "POS PURCHASE - ZARA MUMBAI",
-    "timestamp": "2026-07-02T14:41:05Z"
+    "timestamp": "2026-07-03T19:50:52Z"
   },
   {
     "id": "TX-1003-80",
@@ -195,7 +195,7 @@
     "type": "DEBIT",
     "category": "ATM Withdrawal",
     "description": "ATM CASH WITHDRAWAL",
-    "timestamp": "2026-04-14T14:41:05Z"
+    "timestamp": "2026-04-15T19:50:52Z"
   },
   {
     "id": "TX-1003-65",
@@ -204,7 +204,7 @@
     "type": "DEBIT",
     "category": "ATM Withdrawal",
     "description": "ATM CASH WITHDRAWAL",
-    "timestamp": "2026-04-29T14:41:05Z"
+    "timestamp": "2026-04-30T19:50:52Z"
   },
   {
     "id": "TX-1003-50",
@@ -213,7 +213,7 @@
     "type": "DEBIT",
     "category": "ATM Withdrawal",
     "description": "ATM CASH WITHDRAWAL",
-    "timestamp": "2026-05-14T14:41:05Z"
+    "timestamp": "2026-05-15T19:50:52Z"
   },
   {
     "id": "TX-1003-38",
@@ -222,7 +222,7 @@
     "type": "DEBIT",
     "category": "ATM Withdrawal",
     "description": "ATM CASH WITHDRAWAL",
-    "timestamp": "2026-05-26T14:41:05Z"
+    "timestamp": "2026-05-27T19:50:52Z"
   },
   {
     "id": "TX-1004-30",
@@ -231,7 +231,7 @@
     "type": "DEBIT",
     "category": "Investments",
     "description": "SIP DEBIT - SBI MUTUAL FUND",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-1004-15",
@@ -240,7 +240,7 @@
     "type": "DEBIT",
     "category": "Investments",
     "description": "SIP DEBIT - SBI MUTUAL FUND",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-1004-3",
@@ -249,7 +249,7 @@
     "type": "DEBIT",
     "category": "Investments",
     "description": "SIP DEBIT - SBI MUTUAL FUND",
-    "timestamp": "2026-06-30T14:41:05Z"
+    "timestamp": "2026-07-01T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-60-SAL",
@@ -258,7 +258,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-30-SAL",
@@ -267,7 +267,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-45-DEB",
@@ -276,7 +276,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-35-DEB",
@@ -285,7 +285,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-25-DEB",
@@ -294,7 +294,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-15-DEB",
@@ -303,7 +303,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1005-5-DEB",
@@ -312,7 +312,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-60-SAL",
@@ -321,7 +321,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-30-SAL",
@@ -330,7 +330,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-45-DEB",
@@ -339,7 +339,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-35-DEB",
@@ -348,7 +348,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-25-DEB",
@@ -357,7 +357,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-15-DEB",
@@ -366,7 +366,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1006-5-DEB",
@@ -375,7 +375,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-60-SAL",
@@ -384,7 +384,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-30-SAL",
@@ -393,7 +393,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-45-DEB",
@@ -402,7 +402,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-35-DEB",
@@ -411,7 +411,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-25-DEB",
@@ -420,7 +420,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-15-DEB",
@@ -429,7 +429,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1007-5-DEB",
@@ -438,7 +438,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-60-SAL",
@@ -447,7 +447,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-30-SAL",
@@ -456,7 +456,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-45-DEB",
@@ -465,7 +465,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-35-DEB",
@@ -474,7 +474,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-25-DEB",
@@ -483,7 +483,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-15-DEB",
@@ -492,7 +492,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1008-5-DEB",
@@ -501,7 +501,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-60-SAL",
@@ -510,7 +510,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-30-SAL",
@@ -519,7 +519,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-45-DEB",
@@ -528,7 +528,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-35-DEB",
@@ -537,7 +537,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-25-DEB",
@@ -546,7 +546,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-15-DEB",
@@ -555,7 +555,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1009-5-DEB",
@@ -564,7 +564,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-60-SAL",
@@ -573,7 +573,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-30-SAL",
@@ -582,7 +582,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-45-DEB",
@@ -591,7 +591,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-35-DEB",
@@ -600,7 +600,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-25-DEB",
@@ -609,7 +609,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-15-DEB",
@@ -618,7 +618,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1010-5-DEB",
@@ -627,7 +627,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-60-SAL",
@@ -636,7 +636,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-30-SAL",
@@ -645,7 +645,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-45-DEB",
@@ -654,7 +654,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-35-DEB",
@@ -663,7 +663,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-25-DEB",
@@ -672,7 +672,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-15-DEB",
@@ -681,7 +681,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1011-5-DEB",
@@ -690,7 +690,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-60-SAL",
@@ -699,7 +699,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-30-SAL",
@@ -708,7 +708,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-45-DEB",
@@ -717,7 +717,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-35-DEB",
@@ -726,7 +726,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-25-DEB",
@@ -735,7 +735,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-15-DEB",
@@ -744,7 +744,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1012-5-DEB",
@@ -753,7 +753,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-60-SAL",
@@ -762,7 +762,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-30-SAL",
@@ -771,7 +771,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-45-DEB",
@@ -780,7 +780,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-35-DEB",
@@ -789,7 +789,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-25-DEB",
@@ -798,7 +798,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-15-DEB",
@@ -807,7 +807,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1013-5-DEB",
@@ -816,7 +816,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-60-SAL",
@@ -825,7 +825,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-30-SAL",
@@ -834,7 +834,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-45-DEB",
@@ -843,7 +843,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-35-DEB",
@@ -852,7 +852,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-25-DEB",
@@ -861,7 +861,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-15-DEB",
@@ -870,7 +870,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1014-5-DEB",
@@ -879,7 +879,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-60-SAL",
@@ -888,7 +888,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-30-SAL",
@@ -897,7 +897,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-45-DEB",
@@ -906,7 +906,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-35-DEB",
@@ -915,7 +915,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-25-DEB",
@@ -924,7 +924,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-15-DEB",
@@ -933,7 +933,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1015-5-DEB",
@@ -942,7 +942,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-60-SAL",
@@ -951,7 +951,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-30-SAL",
@@ -960,7 +960,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-45-DEB",
@@ -969,7 +969,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-35-DEB",
@@ -978,7 +978,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-25-DEB",
@@ -987,7 +987,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-15-DEB",
@@ -996,7 +996,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1016-5-DEB",
@@ -1005,7 +1005,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-60-SAL",
@@ -1014,7 +1014,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-30-SAL",
@@ -1023,7 +1023,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-45-DEB",
@@ -1032,7 +1032,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-35-DEB",
@@ -1041,7 +1041,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-25-DEB",
@@ -1050,7 +1050,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-15-DEB",
@@ -1059,7 +1059,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1017-5-DEB",
@@ -1068,7 +1068,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-60-SAL",
@@ -1077,7 +1077,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-30-SAL",
@@ -1086,7 +1086,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-45-DEB",
@@ -1095,7 +1095,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-35-DEB",
@@ -1104,7 +1104,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-25-DEB",
@@ -1113,7 +1113,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-15-DEB",
@@ -1122,7 +1122,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1018-5-DEB",
@@ -1131,7 +1131,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-60-SAL",
@@ -1140,7 +1140,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-30-SAL",
@@ -1149,7 +1149,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-45-DEB",
@@ -1158,7 +1158,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-35-DEB",
@@ -1167,7 +1167,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-25-DEB",
@@ -1176,7 +1176,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-15-DEB",
@@ -1185,7 +1185,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1019-5-DEB",
@@ -1194,7 +1194,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-60-SAL",
@@ -1203,7 +1203,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-30-SAL",
@@ -1212,7 +1212,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-45-DEB",
@@ -1221,7 +1221,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-35-DEB",
@@ -1230,7 +1230,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-25-DEB",
@@ -1239,7 +1239,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-15-DEB",
@@ -1248,7 +1248,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1020-5-DEB",
@@ -1257,7 +1257,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-60-SAL",
@@ -1266,7 +1266,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-30-SAL",
@@ -1275,7 +1275,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-45-DEB",
@@ -1284,7 +1284,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-35-DEB",
@@ -1293,7 +1293,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-25-DEB",
@@ -1302,7 +1302,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-15-DEB",
@@ -1311,7 +1311,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1021-5-DEB",
@@ -1320,7 +1320,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-60-SAL",
@@ -1329,7 +1329,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-30-SAL",
@@ -1338,7 +1338,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-45-DEB",
@@ -1347,7 +1347,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-35-DEB",
@@ -1356,7 +1356,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-25-DEB",
@@ -1365,7 +1365,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-15-DEB",
@@ -1374,7 +1374,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1022-5-DEB",
@@ -1383,7 +1383,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-60-SAL",
@@ -1392,7 +1392,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-30-SAL",
@@ -1401,7 +1401,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-45-DEB",
@@ -1410,7 +1410,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-35-DEB",
@@ -1419,7 +1419,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-25-DEB",
@@ -1428,7 +1428,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-15-DEB",
@@ -1437,7 +1437,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1023-5-DEB",
@@ -1446,7 +1446,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-60-SAL",
@@ -1455,7 +1455,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-30-SAL",
@@ -1464,7 +1464,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-45-DEB",
@@ -1473,7 +1473,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-35-DEB",
@@ -1482,7 +1482,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-25-DEB",
@@ -1491,7 +1491,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-15-DEB",
@@ -1500,7 +1500,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1024-5-DEB",
@@ -1509,7 +1509,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-60-SAL",
@@ -1518,7 +1518,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-30-SAL",
@@ -1527,7 +1527,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-45-DEB",
@@ -1536,7 +1536,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-35-DEB",
@@ -1545,7 +1545,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-25-DEB",
@@ -1554,7 +1554,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-15-DEB",
@@ -1563,7 +1563,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1025-5-DEB",
@@ -1572,7 +1572,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-60-SAL",
@@ -1581,7 +1581,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-30-SAL",
@@ -1590,7 +1590,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-45-DEB",
@@ -1599,7 +1599,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-35-DEB",
@@ -1608,7 +1608,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-25-DEB",
@@ -1617,7 +1617,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-15-DEB",
@@ -1626,7 +1626,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1026-5-DEB",
@@ -1635,7 +1635,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-60-SAL",
@@ -1644,7 +1644,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-30-SAL",
@@ -1653,7 +1653,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-45-DEB",
@@ -1662,7 +1662,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-35-DEB",
@@ -1671,7 +1671,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-25-DEB",
@@ -1680,7 +1680,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-15-DEB",
@@ -1689,7 +1689,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1027-5-DEB",
@@ -1698,7 +1698,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-60-SAL",
@@ -1707,7 +1707,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-30-SAL",
@@ -1716,7 +1716,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-45-DEB",
@@ -1725,7 +1725,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-35-DEB",
@@ -1734,7 +1734,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-25-DEB",
@@ -1743,7 +1743,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-15-DEB",
@@ -1752,7 +1752,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1028-5-DEB",
@@ -1761,7 +1761,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-60-SAL",
@@ -1770,7 +1770,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-30-SAL",
@@ -1779,7 +1779,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-45-DEB",
@@ -1788,7 +1788,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-35-DEB",
@@ -1797,7 +1797,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-25-DEB",
@@ -1806,7 +1806,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-15-DEB",
@@ -1815,7 +1815,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1029-5-DEB",
@@ -1824,7 +1824,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-60-SAL",
@@ -1833,7 +1833,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-05-04T14:41:05Z"
+    "timestamp": "2026-05-05T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-30-SAL",
@@ -1842,7 +1842,7 @@
     "type": "CREDIT",
     "category": "Salary",
     "description": "MONTHLY SALARY CREDIT",
-    "timestamp": "2026-06-03T14:41:05Z"
+    "timestamp": "2026-06-04T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-45-DEB",
@@ -1851,7 +1851,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-19T14:41:05Z"
+    "timestamp": "2026-05-20T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-35-DEB",
@@ -1860,7 +1860,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-05-29T14:41:05Z"
+    "timestamp": "2026-05-30T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-25-DEB",
@@ -1869,7 +1869,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-08T14:41:05Z"
+    "timestamp": "2026-06-09T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-15-DEB",
@@ -1878,7 +1878,7 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-18T14:41:05Z"
+    "timestamp": "2026-06-19T19:50:52Z"
   },
   {
     "id": "TX-CUST-1030-5-DEB",
@@ -1887,6 +1887,6 @@
     "type": "DEBIT",
     "category": "Groceries & Shopping",
     "description": "POS PURCHASE - SUPERMARKET",
-    "timestamp": "2026-06-28T14:41:05Z"
+    "timestamp": "2026-06-29T19:50:52Z"
   }
 ]

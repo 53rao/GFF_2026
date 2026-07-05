@@ -1,8 +1,8 @@
 [
   {
-    "hypothesis_id": "HYP-CUST-1001-a45aa3",
+    "hypothesis_id": "HYP-CUST-1001-e4491d",
     "customer_id": "CUST-1001",
-    "signal_id": "SIG-CUST-1001-INFLOW-TX-1001-BONUS",
+    "signal_id": "SIG-TEST-INFLOW",
     "category": "investments",
     "product_line": "INVESTMENTS",
     "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
@@ -17,9 +17,9 @@
     "status": "Formulated"
   },
   {
-    "hypothesis_id": "HYP-CUST-1001-8de651",
+    "hypothesis_id": "HYP-CUST-1001-1c8a63",
     "customer_id": "CUST-1001",
-    "signal_id": "SIG-CUST-1001-INFLOW-TX-1001-BONUS",
+    "signal_id": "SIG-TEST-SCHEMA",
     "category": "investments",
     "product_line": "INVESTMENTS",
     "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
@@ -34,19 +34,648 @@
     "status": "Formulated"
   },
   {
-    "hypothesis_id": "HYP-CUST-1003-d9b3ee",
-    "customer_id": "CUST-1003",
-    "signal_id": "SIG-CUST-1003-DORM-134edb",
-    "category": "retention_risk",
-    "product_line": "RETENTION_RISK",
-    "recommended_action": "PROACTIVE_CHECK_IN_AND_YONO_ASSISTANCE",
-    "confidence": 0.85,
-    "rationale": "Customer hasn't logged into app for 38 days after previously regular usage.",
+    "hypothesis_id": "HYP-CUST-1001-04e27d",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-CONF",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
     "supporting_evidence": [
-      "Zero logins over 38 days."
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
     ],
     "disconfirming_evidence": [
-      "Customer may be traveling internationally or switched device."
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-41f00d",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-076166",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-c70aba",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-9fc19a",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-84ed5d",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-113ba5",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-684a84",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-3c40f5",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-e25103",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-68c7ba",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-8c5642",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-00b904",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-9afd53",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-22dc5d",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-a33b03",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-INFLOW",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-135504",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-SCHEMA",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-eb6852",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-CONF",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-c1e3ad",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-91bf89",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-68cca4",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-29109d",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-e79207",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-98e948",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-ee8f9f",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-025241",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-4e52cb",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-025c4a",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-9cfdfd",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-e6e230",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-196ce3",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-35ed39",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-ec2505",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-INFLOW",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-d01ad3",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-SCHEMA",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-a48d55",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-CONF",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-0d8497",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-f7b5c7",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-d7caf9",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-ec4100",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-99071f",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-db1fb7",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-2e0b8c",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-2c207d",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-a3beaa",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-354fc7",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-118f95",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-8db39f",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-68e90e",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-c7bca3",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-1dd158",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-INFLOW",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-f70ad3",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-SCHEMA",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1001-5364f3",
+    "customer_id": "CUST-1001",
+    "signal_id": "SIG-TEST-CONF",
+    "category": "investments",
+    "product_line": "INVESTMENTS",
+    "recommended_action": "OFFER_TAX_FREE_BONDS_AND_FD",
+    "confidence": 0.92,
+    "rationale": "Customer received \u20b98,50,000 performance bonus sitting idle in savings account.",
+    "supporting_evidence": [
+      "Single credit of \u20b98.5L exceeds 3x historical salary baseline."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have pending property purchase or short-term liquidity need."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-9d7171",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-dc8d1c",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-66ad3f",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-b1f436",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-01697d",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-2e0f10",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-069ca6",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-675598",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-ae0dda",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-0dc804",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-04a084",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-ac9e1b",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
+    ],
+    "status": "Formulated"
+  },
+  {
+    "hypothesis_id": "HYP-CUST-1002-a99143",
+    "customer_id": "CUST-1002",
+    "signal_id": "SIG-CUST-1002-SPIKE-a26f0a",
+    "category": "lending",
+    "product_line": "LENDING",
+    "recommended_action": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "confidence": 0.89,
+    "rationale": "High velocity luxury spending (\u20b92.4L in 3 days) may require cash flow smoothing.",
+    "supporting_evidence": [
+      "Spend velocity is 83x higher than normal weekly average."
+    ],
+    "disconfirming_evidence": [
+      "Customer may have planned luxury purchases with existing savings buffer."
     ],
     "status": "Formulated"
   }

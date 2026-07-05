@@ -13,6 +13,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app import data_store
+from app.db.database import init_db, close_db
 from app.api import (
     routes_user,
     routes_admin,
@@ -29,10 +30,18 @@ logger = get_logger("sbi.main")
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("Starting up SBI Multi-Agent Banking Engagement System backend...")
+    # Initialize SQL database tables
+    try:
+        await init_db()
+    except Exception as e:
+        logger.error(f"Failed to initialize database: {e}")
     customers = data_store.get_all_customers()
     logger.info(f"Loaded {len(customers)} customers from JSON data store.")
     yield
+    # Close connection pool
+    await close_db()
     logger.info("Shutting down SBI backend...")
+
 
 
 app = FastAPI(
