@@ -1,45 +1,35 @@
 {
-  "CUST-1001": {
-    "customer_id": "CUST-1001",
+  "CUST-1002": {
+    "customer_id": "CUST-1002",
     "preferred_channel": "call",
-    "monthly_contact_count": 2,
+    "monthly_contact_count": 4,
     "interaction_history": [
       {
-        "timestamp": "2026-07-03T16:24:09Z",
+        "timestamp": "2026-07-04T19:50:53Z",
         "outcome_type": "hot_lead",
         "confidence": 0.92,
         "reasoning": "Customer showed active interest in the recommended banking product."
       },
       {
-        "timestamp": "2026-07-03T16:24:58Z",
+        "timestamp": "2026-07-04T19:50:53Z",
         "outcome_type": "hot_lead",
         "confidence": 0.92,
         "reasoning": "Customer showed active interest in the recommended banking product."
-      }
-    ],
-    "last_interaction_timestamp": "2026-07-03T16:24:58Z",
-    "last_decline_timestamp": null,
-    "customer_consents": [
-      "investments",
-      "lending",
-      "insurance",
-      "payments",
-      "mobile_banking"
-    ]
-  },
-  "CUST-1003": {
-    "customer_id": "CUST-1003",
-    "preferred_channel": "call",
-    "monthly_contact_count": 1,
-    "interaction_history": [
+      },
       {
-        "timestamp": "2026-07-03T16:25:08Z",
+        "timestamp": "2026-07-04T19:50:53Z",
+        "outcome_type": "hot_lead",
+        "confidence": 0.92,
+        "reasoning": "Customer showed active interest in the recommended banking product."
+      },
+      {
+        "timestamp": "2026-07-04T19:50:53Z",
         "outcome_type": "hot_lead",
         "confidence": 0.92,
         "reasoning": "Customer showed active interest in the recommended banking product."
       }
     ],
-    "last_interaction_timestamp": "2026-07-03T16:25:08Z",
+    "last_interaction_timestamp": "2026-07-04T19:50:53Z",
     "last_decline_timestamp": null,
     "customer_consents": [
       "investments",

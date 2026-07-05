@@ -1,41 +1,54 @@
 [
   {
-    "id": "CASE-CUST-1001-8596E5",
-    "case_id": "CASE-CUST-1001-8596E5",
-    "customer_id": "CUST-1001",
-    "customerName": "Rajesh Kumar",
-    "type": "OFFER_TAX_FREE_BONDS_AND_FD",
-    "priority": "High",
-    "status": "Escalated",
-    "assigned_queue": "Compliance & Suitability Review Queue",
-    "sla": "2h",
-    "slaBreached": false,
-    "created_at": "2026-07-03T16:24:09Z"
-  },
-  {
-    "id": "CASE-CUST-1001-4ED956",
-    "case_id": "CASE-CUST-1001-4ED956",
-    "customer_id": "CUST-1001",
-    "customerName": "Rajesh Kumar",
-    "type": "OFFER_TAX_FREE_BONDS_AND_FD",
-    "priority": "High",
-    "status": "Escalated",
-    "assigned_queue": "Compliance & Suitability Review Queue",
-    "sla": "2h",
-    "slaBreached": false,
-    "created_at": "2026-07-03T16:24:58Z"
-  },
-  {
-    "id": "CASE-CUST-1003-91C707",
-    "case_id": "CASE-CUST-1003-91C707",
-    "customer_id": "CUST-1003",
-    "customerName": "Amit Patel",
-    "type": "PROACTIVE_CHECK_IN_AND_YONO_ASSISTANCE",
+    "id": "CASE-CUST-1002-B5B125",
+    "case_id": "CASE-CUST-1002-B5B125",
+    "customer_id": "CUST-1002",
+    "customerName": "Priya Sharma",
+    "type": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
     "priority": "High",
     "status": "Assigned",
-    "assigned_queue": "General Sales RM Queue",
+    "assigned_queue": "Retail Asset Specialist Queue",
     "sla": "2h",
     "slaBreached": false,
-    "created_at": "2026-07-03T16:25:08Z"
+    "created_at": "2026-07-04T19:50:53Z"
+  },
+  {
+    "id": "CASE-CUST-1002-4DE527",
+    "case_id": "CASE-CUST-1002-4DE527",
+    "customer_id": "CUST-1002",
+    "customerName": "Priya Sharma",
+    "type": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "priority": "High",
+    "status": "Assigned",
+    "assigned_queue": "Retail Asset Specialist Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-04T19:50:53Z"
+  },
+  {
+    "id": "CASE-CUST-1002-5A56B9",
+    "case_id": "CASE-CUST-1002-5A56B9",
+    "customer_id": "CUST-1002",
+    "customerName": "Priya Sharma",
+    "type": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "priority": "High",
+    "status": "Assigned",
+    "assigned_queue": "Retail Asset Specialist Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-04T19:50:53Z"
+  },
+  {
+    "id": "CASE-CUST-1002-A560AF",
+    "case_id": "CASE-CUST-1002-A560AF",
+    "customer_id": "CUST-1002",
+    "customerName": "Priya Sharma",
+    "type": "OFFER_EMERGENCY_CREDIT_LINE_OR_EMI_CONVERSION",
+    "priority": "High",
+    "status": "Assigned",
+    "assigned_queue": "Retail Asset Specialist Queue",
+    "sla": "2h",
+    "slaBreached": false,
+    "created_at": "2026-07-04T19:50:53Z"
   }
 ]

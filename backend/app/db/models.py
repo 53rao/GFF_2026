@@ -48,7 +48,10 @@ class Case(Base):
     customer_id: Mapped[str] = mapped_column(ForeignKey("customers.id"), index=True)
     status: Mapped[str] = mapped_column(String, default="Open", index=True)
     priority: Mapped[str] = mapped_column(String, default="Medium")
+    type: Mapped[Optional[str]] = mapped_column(String, nullable=True)
     assigned_agent: Mapped[Optional[str]] = mapped_column(String, nullable=True)
+    sla: Mapped[Optional[str]] = mapped_column(String, default="24h")
+    slaBreached: Mapped[bool] = mapped_column(Boolean, default=False)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
     updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 

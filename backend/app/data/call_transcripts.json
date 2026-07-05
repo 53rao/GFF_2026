@@ -1,11 +1,11 @@
 [
   {
     "call_sid": "CA-SIMULATED-8890",
-    "customer_id": "CUST-1003",
+    "customer_id": "CUST-1002",
     "channel": "call",
     "duration_seconds": 120,
     "status": "ANSWERED",
     "transcript": "Agent: Good afternoon, calling from State Bank of India regarding your recent account activity.\nCustomer: Yes, tell me.\nAgent: We noticed a significant inflow in your account and wanted to suggest our premium Tax-Free Bonds and Fixed Deposit schemes offering 7.1% interest.\nCustomer: That sounds interesting, could you send me more details or have an RM contact me tomorrow?\nAgent: Certainly! I will schedule our relationship manager to contact you with the complete details.",
-    "timestamp": "2026-07-03T16:25:08Z"
+    "timestamp": "2026-07-04T19:50:53Z"
   }
 ]

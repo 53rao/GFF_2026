@@ -11,10 +11,10 @@
       "historical_avg_credit": 150000.0,
       "description": "ANNUAL PERFORMANCE BONUS FY25"
     },
-    "detected_at": "2026-07-03T16:24:58Z"
+    "detected_at": "2026-07-04T20:18:33Z"
   },
   {
-    "signal_id": "SIG-CUST-1002-SPIKE-33f99c",
+    "signal_id": "SIG-CUST-1002-SPIKE-a26f0a",
     "signal_type": "SPENDING_SPIKE",
     "customer_id": "CUST-1002",
     "confidence": 0.92,
@@ -24,20 +24,20 @@
       "historical_weekly_avg": 2858.33,
       "spike_multiplier": 83.97
     },
-    "detected_at": "2026-07-03T16:11:42Z"
+    "detected_at": "2026-07-04T20:18:33Z"
   },
   {
-    "signal_id": "SIG-CUST-1003-DORM-134edb",
+    "signal_id": "SIG-CUST-1003-DORM-ee62bd",
     "signal_type": "DORMANCY_WARNING",
     "customer_id": "CUST-1003",
     "confidence": 0.88,
     "urgency": 3,
     "raw_evidence": {
       "days_inactive": 38,
-      "last_login": "2026-05-26T14:41:05Z",
+      "last_login": "2026-05-27T19:50:52Z",
       "total_historical_logins": 4
     },
-    "detected_at": "2026-07-03T16:25:08Z"
+    "detected_at": "2026-07-04T20:18:33Z"
   },
   {
     "signal_id": "SIG-CUST-1004-MAT-FD_SPECIAL",
@@ -48,10 +48,10 @@
     "raw_evidence": {
       "product_code": "FD_SPECIAL",
       "product_name": "SBI Tax Savings Fixed Deposit",
-      "maturity_date": "2026-07-11",
+      "maturity_date": "2026-07-12",
       "days_to_maturity": 7,
       "balance": 1500000.0
     },
-    "detected_at": "2026-07-03T16:11:42Z"
+    "detected_at": "2026-07-04T20:18:33Z"
   }
 ]
